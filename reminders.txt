@@ -1,0 +1,4 @@
+i needed some way to write down reminders since i don't intend to write proper standalone docs for this
+
+
+  1. i need to not forget to add an authorise button that just prompts the user to paste the JSON of the webhook object
